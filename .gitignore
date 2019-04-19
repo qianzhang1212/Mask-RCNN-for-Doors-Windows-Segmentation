@@ -1,0 +1,16 @@
+.DS_Store
+dup_name_chk.py
+*.pyc
+*.p
+*.h5
+.ipynb_checkpoints/
+*.csv
+*.JPG
+*.jpg
+*.PNG
+*.png
+*.MOV
+*.mov
+*.avi
+
+cityscapes/
